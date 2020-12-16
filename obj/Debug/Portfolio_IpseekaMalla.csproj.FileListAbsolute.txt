@@ -1,0 +1,6 @@
+c:\users\ipsee\onedrive\documents\visual studio 2013\Projects\Portfolio_IpseekaMalla\bin\Portfolio_IpseekaMalla.dll.config
+c:\users\ipsee\onedrive\documents\visual studio 2013\Projects\Portfolio_IpseekaMalla\bin\Portfolio_IpseekaMalla.dll
+c:\users\ipsee\onedrive\documents\visual studio 2013\Projects\Portfolio_IpseekaMalla\bin\Portfolio_IpseekaMalla.pdb
+c:\users\ipsee\onedrive\documents\visual studio 2013\Projects\Portfolio_IpseekaMalla\obj\Debug\Portfolio_IpseekaMalla.csprojResolveAssemblyReference.cache
+c:\users\ipsee\onedrive\documents\visual studio 2013\Projects\Portfolio_IpseekaMalla\obj\Debug\Portfolio_IpseekaMalla.dll
+c:\users\ipsee\onedrive\documents\visual studio 2013\Projects\Portfolio_IpseekaMalla\obj\Debug\Portfolio_IpseekaMalla.pdb
